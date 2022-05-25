@@ -1,5 +1,5 @@
 #!/bin/bash
-source ./functii.sh
+source ./methods.sh
 
 options='
 \n------------------\n
