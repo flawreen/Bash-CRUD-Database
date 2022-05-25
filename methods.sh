@@ -10,7 +10,7 @@ function add {
 	read -p "House location(city): " city
 	read -p "House surface(sq meters): " sqm
 	read -p "Number of levels: " levels
-	echo -e "\nUnic_ID Name City Sqm Levels"
+	echo -e "\nUniqueID Name City Sqm Levels"
 	echo "$uniqueID $name $city $sqm $levels"
 	echo "Save data?"
 	read x
